@@ -1,0 +1,174 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "En CustomCodeCR, nos dedicamos a proporcionar soluciones tecnológicas personalizadas y de vanguardia para satisfacer las necesidades únicas de nuestros clientes. Nuestro equipo está comprometido con la excelencia y la innovación en cada proyecto.",
+    "Why": [
+      "Experiencia y Profesionalismo.",
+      "Soluciones a Medida.",
+      "Atención al Cliente Prioritaria.",
+      "Innovación Constante."
+    ],
+    "Why2": [
+      "Calidad Garantizada.",
+      "Compromiso con la Excelencia.",
+      "Soporte Continuo.",
+      "Resultados Comprobados."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Sitio Web - Grupo Castro Fallas",
+      "largeImage": "img/portfolio/sitioweb_1.png",
+      "smallImage": "img/portfolio/sitioweb_1.png"
+    },
+    {
+      "title": "SaleHub",
+      "largeImage": "img/portfolio/sitioweb_2.png",
+      "smallImage": "img/portfolio/sitioweb_2.png"
+    },
+    {
+      "title": "App - Grupo Castro Fallas",
+      "largeImage": "img/portfolio/app_1.png",
+      "smallImage": "img/portfolio/app_1.png"
+    },
+    {
+      "title": "Formu",
+      "largeImage": "img/portfolio/app_2.png",
+      "smallImage": "img/portfolio/app_2.png"
+    },
+    {
+      "title": "Save n Sell",
+      "largeImage": "img/portfolio/software_1.png",
+      "smallImage": "img/portfolio/software_1.png"
+    },
+    {
+      "title": "SmartPark",
+      "largeImage": "img/portfolio/software_2.png",
+      "smallImage": "img/portfolio/software_2.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-desktop",
+      "name": "Desarrollo de Sitios Web",
+      "text": "Creamos sitios web personalizados y atractivos que reflejan la identidad de tu marca y satisfacen las necesidades de tus usuarios."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "name": "Desarrollo de Aplicaciones",
+      "text": "Diseñamos y desarrollamos aplicaciones móviles y de escritorio a medida que ofrecen una experiencia de usuario excepcional y cumplen con tus objetivos comerciales."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Desarrollo de Software",
+      "text": "Creamos soluciones de software personalizadas y escalables que optimizan tus procesos empresariales y te ayudan a alcanzar tus metas tecnológicas."
+    },
+    {
+      "icon": "fa fa-laptop",
+      "name": "Mantenimiento de Computadoras",
+      "text": "Proporcionamos servicios de mantenimiento y soporte técnico para mantener tus equipos funcionando de manera óptima y libre de problemas."
+    },
+    {
+      "icon": "fa fa-sitemap",
+      "name": "Infraestructura de Redes",
+      "text": "Diseñamos, implementamos y administramos infraestructuras de red robustas y seguras que garantizan la conectividad y el rendimiento de tu empresa."
+    },
+    {
+      "icon": "fa fa-server",
+      "name": "Administración de Servidores",
+      "text": "Brindamos servicios de configuración y administración de servidores para garantizar la disponibilidad, seguridad y eficiencia de tus sistemas informáticos."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "El equipo de CustomCodeCR ha superado mis expectativas. Su enfoque personalizado y atención al detalle realmente destacan. Recomiendo encarecidamente sus servicios.",
+      "name": "Javier Gómez"
+    },
+
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Estoy extremadamente impresionado con el trabajo de CustomCodeCR. Su profesionalismo y habilidades técnicas son excepcionales. ¡Gracias por ayudar a hacer realidad mi proyecto!",
+      "name": "Carlos Rodríguez"
+    },
+
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "CustomCodeCR ha sido fundamental en el éxito de mi negocio en línea. Su experiencia en desarrollo web ha elevado la presencia de mi marca a un nuevo nivel. Estoy muy agradecido.",
+      "name": "Pedro Fernández"
+    },
+
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "¡Increíble trabajo! CustomCodeCR ha demostrado ser un socio confiable y competente en el desarrollo de aplicaciones móviles. Estoy emocionado de continuar nuestra colaboración en futuros proyectos.",
+      "name": "Ana Sánchez"
+    },
+
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "CustomCodeCR es simplemente asombroso. Su atención al cliente y capacidad para ofrecer soluciones tecnológicas personalizadas es inigualable. ¡Gracias por todo su arduo trabajo!",
+      "name": "Alexander Pérez"
+    },
+
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "No podría estar más feliz con los resultados obtenidos por CustomCodeCR. Su conocimiento en desarrollo de software y su enfoque centrado en el cliente son incomparables. Definitivamente los recomendaría a cualquier persona.",
+      "name": "María González"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Desamparados, San José, Costa Rica, 10301",
+    "phone": "+506 6206-5451",
+    "email": "customcodecr@gmail.com",
+    "facebook": "https://www.facebook.com/people/CustomCode/100092447430066",
+    "twitter": "https://www.instagram.com/customcodecr",
+    "youtube": "https://github.com/MauLang18"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Soluciones Personalizadas",
+      "text": "CustomCodeCR se especializa en ofrecer soluciones de software a medida para satisfacer las necesidades específicas de cada cliente. Desde páginas web personalizadas hasta aplicaciones móviles, cada proyecto se adapta a los requisitos únicos del cliente."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Experiencia y Profesionalismo",
+      "text": "Con años de experiencia en el desarrollo de software, el equipo de CustomCodeCR cuenta con conocimientos técnicos sólidos y un enfoque profesional para garantizar la entrega de soluciones de alta calidad y confiables."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Atención al Cliente",
+      "text": "CustomCodeCR se compromete a brindar un servicio al cliente excepcional. Desde la fase inicial de planificación hasta la implementación final del proyecto, el equipo está disponible para responder preguntas, ofrecer asesoramiento y garantizar la satisfacción del cliente en cada etapa del proceso."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Innovación y Creatividad",
+      "text": "En CustomCodeCR, valoramos la innovación y la creatividad en cada proyecto. Nos esforzamos por encontrar soluciones tecnológicas innovadoras que impulsen el éxito de nuestros clientes y los ayuden a destacarse en un mercado cada vez más competitivo."
+    }
+  ]
+}
